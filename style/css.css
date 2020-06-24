@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: rgb(141, 141, 141);
+  padding: 15px;
+  border-bottom: 1px solid rgba(141, 141, 141, 0.308);
+  margin: auto;
+  width: 300px;
+  text-align: center;
+  margin-bottom: 20px;
+
+}
+
+button {
+  color: orange !important;
+}
+
+.btn:focus,
+.btn:active {
+  outline: none !important;
+  box-shadow: none;
+}
